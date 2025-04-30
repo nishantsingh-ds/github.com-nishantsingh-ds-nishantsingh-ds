@@ -26,22 +26,22 @@ Currently:
 
 ## 📌 Notable Projects
 
-### 🎯 [Agentic AI Resume Assistant](https://github.com/yourusername/resume-assistant)
+### 🎯 [Agentic AI Resume Assistant](https://github.com/nishantsingh-ds/resume-assistant)
 A multi-agent LLM app that generates custom resumes, cover letters, and cold emails. Built using CrewAI and Streamlit.
 
-### 🚀 [NASA APOD Airflow Pipeline](https://github.com/yourusername/nasa-apod-airflow)
+### 🚀 [NASA APOD Airflow Pipeline](https://github.com/nishantsingh-ds/nasa-apod-airflow)
 ETL pipeline using Apache Airflow to fetch, clean, and store NASA's Astronomy Picture of the Day data into S3 and Athena.
 
-### 🍥 [Anime Recommendation Engine](https://github.com/yourusername/anime-recommender)
+### 🍥 [Anime Recommendation Engine](https://github.com/nishantsingh-ds/anime-recommender)
 A content-based and collaborative filtering engine to recommend anime titles. Built using Scikit-learn + Surprise + Streamlit.
 
 ---
 
 ## 📫 Connect with Me
 
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) *(Coming soon or link to Notion)*
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- ✉️ Email: yourname@email.com
+- 🌐 [Portfolio Website](https://nishantsingh-ds.com) *(Coming soon or link to Notion)*
+- 🔗 [LinkedIn](https://linkedin.com/in/nishantsinghh
+- ✉️ Email: nishantsinghns.mail@email.com
 
 ---
 
