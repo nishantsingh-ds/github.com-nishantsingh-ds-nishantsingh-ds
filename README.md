@@ -1,47 +1,61 @@
 # 👋 Hi there, I'm Nishant Singh!
 
-🎓 MS in Data Science | 🧠 AI & GenAI Enthusiast | 🔍 Researcher in Deep Learning  
-🚀 Building with LLMs, RNNs, Airflow, Spark, LangChain, and CrewAI
+🎓 MS in Data Science | 🧠 AI & GenAI Engineer | 🔬 Deep Learning Researcher  
+🚀 Building intelligent systems with LLMs, RNNs, Spark, Airflow, LangChain, and CrewAI
 
 ---
 
 ## 💼 About Me
-I'm a curious and driven AI engineer & data scientist passionate about solving real-world problems using machine learning, deep learning, and generative AI.
+
+I'm a driven and research-oriented AI Engineer passionate about solving real-world problems through machine learning, deep learning, and generative AI.  
+I specialize in building modular, scalable AI systems — from intelligent pipelines to agentic LLM apps.
 
 Currently:
-- 🎓 Master's Student at DePaul University (Graduating 2025)
-- 🧪 Research Assistant working on efficient RNN architectures (HGRN, Gate-Free RNS)
-- 🧠 Intern @ Winnovate — building a GenAI-powered educational app for kids
+- 🎓 Graduate Student at **DePaul University** (MS in Data Science, Class of 2025)
+- 🧪 **Research Assistant** working on efficient recurrent models (HGRN, Gate-Free RNS)
+- 👨‍💻 **AI Intern @ Winnovate** – building a GenAI-powered educational app for kids
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, SQL, Bash
-- **ML/DL**: Scikit-learn, PyTorch, TensorFlow
-- **GenAI**: LangChain, LangGraph, CrewAI, OpenAI, Groq
-- **Data Engineering**: Apache Spark, Hadoop, Kafka, AWS S3, Athena
-- **Workflow & MLOps**: Airflow, Docker, FastAPI, Streamlit
+
+- **Languages**: Python, SQL, Bash  
+- **Machine Learning**: Scikit-learn, XGBoost, TensorFlow, PyTorch  
+- **Generative AI**: LangChain, LangGraph, CrewAI, OpenAI, Groq, Hugging Face  
+- **Big Data & Engineering**: Apache Spark, Hadoop, Kafka, AWS S3, Athena  
+- **MLOps & Infra**: Airflow, Docker, FastAPI, Streamlit, GitHub Actions  
 
 ---
 
-## 📌 Notable Projects
+## 🚀 Highlight Projects
 
-### 🎯 [Agentic AI Resume Assistant](https://github.com/nishantsingh-ds/resume-assistant)
-A multi-agent LLM app that generates custom resumes, cover letters, and cold emails. Built using CrewAI and Streamlit.
+### 🧑‍💼 [Agentic AI Resume Assistant](https://github.com/nishantsingh-ds/agentic-resume-assistant)
+Multi-agent LLM app that generates tailored resumes, cover letters, and cold emails using CrewAI and Streamlit.  
+Includes a feedback loop and dynamic prompt adaptation.
 
-### 🚀 [NASA APOD Airflow Pipeline](https://github.com/nishantsingh-ds/nasa-apod-airflow)
-ETL pipeline using Apache Airflow to fetch, clean, and store NASA's Astronomy Picture of the Day data into S3 and Athena.
+### 🔭 [NASA APOD Airflow Pipeline](https://github.com/nishantsingh-ds/nasa-apod-airflow-etl)
+ETL pipeline that fetches NASA's Astronomy Picture of the Day using Airflow, processes it, and stores it in AWS S3 + Athena.  
+Demonstrates scheduling, DAG design, and cloud-based querying.
 
-### 🍥 [Anime Recommendation Engine](https://github.com/nishantsingh-ds/anime-recommender)
-A content-based and collaborative filtering engine to recommend anime titles. Built using Scikit-learn + Surprise + Streamlit.
+### 🍥 [Anime Recommendation Engine](https://github.com/nishantsingh-ds/Anime-Recommendation)
+A hybrid content-based + collaborative filtering recommender system built using Scikit-learn, Surprise, and Streamlit.  
+Offers an interactive interface and clean explainable output.
+
+### 🧠 [LangGraph Agentic AI Chatbot](https://huggingface.co/spaces/nishant-ds/Agentic-AI)
+A LangGraph-powered Streamlit chatbot that supports basic and tool-augmented (Tavily search) conversational flows.  
+Uses Groq LLMs and is auto-deployed via GitHub Actions to Hugging Face Spaces.
+
+### 📄 [Research Paper Summarizer (RAG App)](https://github.com/nishantsingh-ds/langchain-research-paper-summarizer)
+Retrieval-Augmented Generation (RAG) app that fetches arXiv papers, chunks and stores them in FAISS, and answers custom questions via GPT-4o.
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let's Connect
 
-- 🌐 [Portfolio Website](https://nishantsingh-ds.com) *(Coming soon or link to Notion)*
-- 🔗 [LinkedIn](https://linkedin.com/in/nishantsinghh
-- ✉️ Email: nishantsinghns.mail@email.com
+- 🔗 [LinkedIn](https://linkedin.com/in/nishantsinghh)  
+- 🌐 Portfolio: [nishantsingh-ds.com](https://nishantsingh-ds.com) *(coming soon)*  
+- ✉️ Email: nishantsinghns.mail@email.com  
+- 💻 GitHub: [@nishantsingh-ds](https://github.com/nishantsingh-ds)
 
 ---
 
