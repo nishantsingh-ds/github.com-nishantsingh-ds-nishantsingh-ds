@@ -29,6 +29,10 @@ Currently:
 
 ## 🚀 Highlight Projects
 
+
+### ✈️ [AI-Powered Travel Planner Agent](https://github.com/nishantsingh-ds/trip-planner-using-crewai)
+A multi-agent AI travel planner that recommends personalized travel itineraries using CrewAI, FastAPI, and Groq LLMs. Users can interact via text to get destination suggestions, budget-friendly plans, and activities.
+
 ### 🧑‍💼 [Agentic AI Resume Assistant](https://github.com/nishantsingh-ds/agentic-resume-assistant)
 Multi-agent LLM app that generates tailored resumes, cover letters, and cold emails using CrewAI and Streamlit.  
 Includes a feedback loop and dynamic prompt adaptation.
